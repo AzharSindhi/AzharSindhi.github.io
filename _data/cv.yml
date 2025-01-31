@@ -2,96 +2,98 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Azhar Hussain
+    - name: Email
+      value: azharblch89@gmail.com
+    - name: Phone
+      value: +49 151 43594928
+    - name: GitHub
+      value: https://github.com/AzharSindhi
+    - name: Google Scholar
+      value: https://scholar.google.com/citations?user=0jzExeQAAAAJ&hl=en
+    - name: LinkedIn
+      value: https://linkedin.com/in/azhar-hussain-0b087b155
     - name: Languages
       value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Artificial Intelligence
+      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany
+      year: October 2022 - March 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis Title: Multimodal Gesture Recognition in Artwork Images
+        - Grade: 1.0
+        - Supervisors:
+          - Prof. Dr. Andreas Maier (ELLIS member)
+          - Mathias Zinnen
+    - title: Bachelor of Science in Computer Science
+      institution: National University of Computer and Emerging Sciences, Islamabad, Pakistan
+      year: September 2015 - June 2019
       description:
-        - Description 1.
-        - Description 2.
+        - GPA for Relevant Courses (German): 1.5
+        - Relevant Courses: [Details](https://docs.google.com/spreadsheets/d/1j1yzfUUUvZ5UTKFD0r4HixzP89RmBvHnpbvWxZ-B7nI/edit?usp=sharing)
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg
+      year: February 2022 - December 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Researched gesture recognition in artworks within the EU-Horizon project: [Odeuropa](https://odeuropa.eu/)
+        - Addressed challenges like limited labeled data, class imbalances, complex gestures, and noisy labels
+        - Applied pretraining and fine-tuning on alternate datasets to boost model performance
+        - Investigated CLIP features to enhance contextual understanding in recognition tasks
+    - title: Master's Thesis
+      institution: Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg
+      year: March 2024 - September 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Identified the research gap in current object detection methods when applied to the artwork domain
+        - Proposed novel modifications to a state-of-the-art model, achieving improved performance
+        - Conducted ablation studies to validate the effectiveness of the proposed modifications
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Learning Causal Inference using Neural Networks
+      year: Erlangen, Germany
+      description:
+        - Developed neural networks to infer causal relations between audio and visual spatial signals
+        - Observed distinct causal structures, including common and independent causes for audio and visual signals
+    - title: Distracted Activity Detection of Drivers Using Deep Learning
+      year: Islamabad, Pakistan
+      description:
+        - Trained MobileNet for efficient, real-time distracted driving detection
+        - Deployed on Android for live analysis and feedback
+    - title: Analysis of Electrophysiological Signals for Diagnosing Eye Diseases
+      year: Erlangen, Germany
+      description:
+        - Analyzed ERG signals for retinal disease diagnosis
+        - First-time use of shapelets and STFT in ERG, boosting classification by 10% and 17% respectively
+    - title: Gesture Recognition in Artwork Images
+      year: Erlangen, Germany
+      description:
+        - Improved classification by fusing distance and angle features with CNN visual embeddings
+        - Validated the effectiveness of combining spatial and visual features
 
-- title: Honors and Awards
-  type: time_table
+- title: Publications
+  type: list
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - [Gesture Classification in Artworks Using Contextual Image Features](http://arxiv.org/abs/2412.03456)
+    - [Smelly, dense, and spreaded: The Object Detection for Olfactory References (ODOR) dataset](https://doi.org/10.1016/j.eswa.2024.124576)
+    - [SniffyArt: The Dataset of Smelling Persons](https://dl.acm.org/doi/10.1145/3607542.3617357)
+    - [Recognizing Sensory Gestures in Historical Artworks](https://link.springer.com/article/10.1007/s11042-024-20502-6)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computer Vision
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Multimodal Learning
+        - Robust Learning
+    - title: AI for Sciences
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Explainable AI
+        - Causal Learning
