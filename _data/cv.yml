@@ -10,9 +10,9 @@
     - name: GitHub
       value: https://github.com/AzharSindhi
     - name: Google Scholar
-      value: https://scholar.google.com/citations?user=0jzExeQAAAAJ&hl=en
+      value: 
     - name: LinkedIn
-      value: https://linkedin.com/in/azhar-hussain-0b087b155
+      value: 
     - name: Languages
       value: English, German
 
@@ -33,7 +33,6 @@
       year: September 2015 - June 2019
       description:
         - GPA for Relevant Courses (German): 1.5
-        - Relevant Courses: [Details](https://docs.google.com/spreadsheets/d/1j1yzfUUUvZ5UTKFD0r4HixzP89RmBvHnpbvWxZ-B7nI/edit?usp=sharing)
 
 - title: Research Experience
   type: time_table
@@ -42,7 +41,7 @@
       institution: Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg
       year: February 2022 - December 2023
       description:
-        - Researched gesture recognition in artworks within the EU-Horizon project: [Odeuropa](https://odeuropa.eu/)
+        - Researched gesture recognition in artworks within the EU-Horizon project
         - Addressed challenges like limited labeled data, class imbalances, complex gestures, and noisy labels
         - Applied pretraining and fine-tuning on alternate datasets to boost model performance
         - Investigated CLIP features to enhance contextual understanding in recognition tasks
@@ -81,10 +80,10 @@
 - title: Publications
   type: list
   contents:
-    - [Gesture Classification in Artworks Using Contextual Image Features](http://arxiv.org/abs/2412.03456)
-    - [Smelly, dense, and spreaded: The Object Detection for Olfactory References (ODOR) dataset](https://doi.org/10.1016/j.eswa.2024.124576)
-    - [SniffyArt: The Dataset of Smelling Persons](https://dl.acm.org/doi/10.1145/3607542.3617357)
-    - [Recognizing Sensory Gestures in Historical Artworks](https://link.springer.com/article/10.1007/s11042-024-20502-6)
+    - Gesture Classification in Artworks Using Contextual Image Features
+    - 'Smelly, dense, and spreaded: The Object Detection for Olfactory References (ODOR) dataset'
+    - 'SniffyArt: The Dataset of Smelling Persons'
+    - Recognizing Sensory Gestures in Historical Artworks
 
 - title: Academic Interests
   type: nested_list
