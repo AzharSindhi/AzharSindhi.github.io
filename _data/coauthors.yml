@@ -1,33 +1,37 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"zinnen":
+  - firstname: ["Mathias", "M."]
+    url: https://lme.tf.fau.de/person/zinnen/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+"maier":
+  - firstname: ["Andreas", "A.", "A. K.", "Andreas K."]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"rosen":
-  - firstname: ["Nathan", "N."]
+"christlein":
+  - firstname: ["Vincent", "V."]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
+"madhu":
+  - firstname: ["Prathmesh", "P. M."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"przibram":
-  - firstname: ["Karl"]
+"leemans":
+  - firstname: ["Inger Leemans", "I. L."]
     url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"schrodinger":
-  - firstname: ["Erwin"]
+"bell":
+  - firstname: ["Peter Bell", "P. B."]
     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
+"tran":
+  - firstname: ["Hang Tran", "H.T", "T. M. H. T.", "Thi My Hang Tran"]
     url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+
+"Hürriyetoğlu":
+  - firstname: ["Ali Hürriyetoğlu"]
+    url: https://en.wikipedia.org/wiki/Max_Planck
 
 "planck":
   - firstname: ["Max"]

@@ -3,5 +3,5 @@ github_users:
 
 repo_description_lines_max: 2
 
-github_repos:
-  - AzharSindhi/ED-Pose-Gestures
+# github_repos:
+#   - AzharSindhi/ED-Pose-Gestures
