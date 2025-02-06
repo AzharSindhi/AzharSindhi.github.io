@@ -187,6 +187,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/publications.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -646,13 +647,13 @@ jsonresume:
   - interests
   - references
 
-excludes:
-  - _news/announcement_*.md
-  - _pages/blog.md
-  # - _pages/profiles.md
-  - _pages/projects.md
-  - _pages/repositories.md
-  - _pages/teaching.md
-  - _posts/
-  - _projects/?_project.md
-  - assets/jupyter/blog.ipynb
+# excludes:
+#   - _news/announcement_*.md
+#   - _pages/blog.md
+#   # - _pages/profiles.md
+#   - _pages/projects.md
+#   - _pages/repositories.md
+#   - _pages/teaching.md
+#   - _posts/
+#   - _projects/?_project.md
+#   - assets/jupyter/blog.ipynb
