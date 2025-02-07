@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: resume
 nav: true
 nav_order: 5
 cv_pdf: CV_PhD_Azhar_Updated.pdf # you can also use external links here
