@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-02-15 07:59:00-0400
+date: 2021-10-01 07:59:00-0400
 title: Excited to start my master's in Germany
 inline: false
 related_posts: false
