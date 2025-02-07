@@ -647,6 +647,8 @@ jsonresume:
   - interests
   - references
 
+cv_pdf: CV_PhD_Azhar_Updated.pdf 
+
 # excludes:
 #   - _news/announcement_*.md
 #   - _pages/blog.md
