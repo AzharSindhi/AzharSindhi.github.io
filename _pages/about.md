@@ -27,8 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student at [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de/), supervised by [Prof. Dr. Vasileios Belagiannis](https://www.lms.tf.fau.eu/person/vasileios-belagiannis/). My research focuses on computer vision and deep learning, with a particular interest in multimodal learning and robust AI models.
+I am a first-year PhD student at [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de/), supervised by [Prof. Dr. Vasileios Belagiannis](https://www.lms.tf.fau.eu/person/vasileios-belagiannis/). My research interests include 3D generative modeling, sparse-to-dense reconstruction, and scene understanding, focusing on leveraging deep learning for accurate 3D reconstruction and enhancing spatial reasoning in dynamic environments.
 
-I hold a Master of Science in Artificial Intelligence from Friedrich-Alexander-Universität Erlangen-Nürnberg, where I specialized in computer vision. My master's thesis explored multimodal gesture recognition by leveraging state-of-the-art transformer architectures. Prior to that, I earned a Bachelor of Science in Computer Science from the [National University of Computer and Emerging Sciences in Islamabad, Pakistan](http://isb.nu.edu.pk/). 
+I hold a Master of Science in Artificial Intelligence from Friedrich-Alexander-Universität Erlangen-Nürnberg. My master's thesis explored gesture detection in artwork images by leveraging state-of-the-art transformer architectures. Prior to that, I earned a Bachelor of Science in Computer Science from the [National University of Computer and Emerging Sciences in Islamabad, Pakistan](http://isb.nu.edu.pk/). 
 
-My research interests include generative modeling, foundation models, multimodal learning and 3D reconstruction.
+Feel free to contact me for any inquiries related to my research or general questions.
+ 
