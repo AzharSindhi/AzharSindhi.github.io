@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
@@ -49,21 +49,28 @@ ninja.data = [{
           title: 'Completed my master&amp;#39;s thesis',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
+              window.location.href = "/news/announcement_3/";
             },},{id: "news-thrilled-to-announce-my-graduation-with-a-master-39-s-in-artificial-intelligence",
-          title: '🎓 Thrilled to Announce My Graduation with a Master&amp;#39;s in Artificial Intelligence! 🤖🚀...',
+          title: 'Thrilled to announce my graduation with a master&amp;#39;s in Artificial Intelligence! 🎓🚀',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-excited-to-start-my-master-39-s-in-germany",
           title: 'Excited to start my master&amp;#39;s in Germany',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
             },},{id: "news-excited-to-begin-my-phd-journey",
-          title: '🎉 Excited to Begin My PhD Journey! 👨🏽‍🎓',
+          title: 'Excited to Begin My PhD Journey! 🎉👨🏽‍🎓',
           description: "",
           section: "News",},{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/azharhussian.bsky.social", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -97,6 +104,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=0jzExeQAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/AzharSindhi3", "_blank");
         },
       },{
       id: 'light-theme',
