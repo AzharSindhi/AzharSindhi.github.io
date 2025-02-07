@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Please view the PDF by clicking on the button above.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -45,7 +45,12 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-completed-my-master-39-s-thesis",
+    },{id: "news-excited-to-start-my-master-39-s-in-germany",
+          title: 'Excited to start my master&amp;#39;s in Germany',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-completed-my-master-39-s-thesis",
           title: 'Completed my master&amp;#39;s thesis',
           description: "",
           section: "News",handler: () => {
@@ -55,11 +60,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-excited-to-start-my-master-39-s-in-germany",
-          title: 'Excited to start my master&amp;#39;s in Germany',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
             },},{id: "news-excited-to-begin-my-phd-journey",
           title: 'Excited to Begin My PhD Journey! 🎉👨🏽‍🎓',
           description: "",
