@@ -4,34 +4,30 @@
 
 "maier":
   - firstname: ["Andreas", "A.", "A. K.", "Andreas K."]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+    url: https://lme.tf.fau.de/person/maier/
 
 "christlein":
   - firstname: ["Vincent", "V."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+    url: https://lme.tf.fau.de/person/christlein/
 
 "madhu":
   - firstname: ["Prathmesh", "P. M."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+    url: https://prathmeshrmadhu.github.io/
 
 "leemans":
-  - firstname: ["Inger Leemans", "I. L."]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+  - firstname: ["Inger", "I. L."]
+    url: https://research.vu.nl/en/persons/inger-leemans
 
 "bell":
   - firstname: ["Peter Bell", "P. B."]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+    url: https://www.uni-marburg.de/de/fb09/khi/institut/lehrende-seiten-und-bilder/prof-dr-peter-bell
 
 "tran":
-  - firstname: ["Hang Tran", "H.T", "T. M. H. T.", "Thi My Hang Tran"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+  - firstname: ["Hang", "H.T", "Thi My Hang", "T.M.H.T"]
 
-"Hürriyetoğlu":
-  - firstname: ["Ali Hürriyetoğlu"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+r"H{\"u}rriyeto{\u{g}}lu":
+  - firstname: ["Ali"]
+    url: https://www.hurrial.com/
 
 "planck":
   - firstname: ["Max"]
