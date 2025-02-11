@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "",
+          description: "For an up-to-date list, visit [Google Scholar](https://scholar.google.com/citations?user=0jzExeQAAAAJ&amp;hl=en)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -60,8 +60,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-excited-to-begin-my-phd-journey",
-          title: 'Excited to Begin My PhD Journey! 🎉👨🏽‍🎓',
+            },},{id: "news-excited-to-begin-my-phd-journey-at-fau",
+          title: 'Excited to begin my PhD journey at FAU! 🎉👨🏽‍🎓',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
