@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to Begin My PhD Journey! 🎉👨🏽‍🎓
+Excited to begin my PhD journey at FAU! 🎉👨🏽‍🎓
