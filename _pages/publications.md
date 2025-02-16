@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 'For an up-to-date list, please visit <a href="https://scholar.google.com/citations?user=0jzExeQAAAAJ&hl=en" target="_blank">Google Scholar</a>'
+description: 'For an up-to-date list, please visit <a href=https://scholar.google.com/citations?user=0jzExeQAAAAJ&hl=en target="_blank">Google Scholar</a>'
 nav: true
 nav_order: 2
 ---
